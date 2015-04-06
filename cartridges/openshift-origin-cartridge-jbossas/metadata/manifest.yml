@@ -7,7 +7,7 @@ Description: The leading open source Java EE6 application server for enterprise 
 Version: '7'
 License: LGPL
 License-Url: http://www.gnu.org/copyleft/lesser.txt
-Vendor: Red Hat
+Vendor: Red_Hat
 Cartridge-Version: 0.0.24
 Compatible-Versions:
 - 0.0.19
